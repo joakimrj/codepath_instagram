@@ -47,7 +47,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](instagram.gif)
+![](Instagram.gif)
 ## Credits
 
 List an 3rd party libraries, icons, graphics, or other assets you used in your app.
