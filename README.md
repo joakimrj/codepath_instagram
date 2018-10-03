@@ -47,8 +47,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-</br>
-<iframe class="imgur-embed" width="100%" height="1300" frameborder="0" src="https://i.imgur.com/e5rMv0Z.gifv#embed"></iframe>
+<blockquote class="imgur-embed-pub" lang="en" data-id="e5rMv0Z"><a href="//imgur.com/e5rMv0Z"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </br>
 GIF created with ezgif.com.
 
